@@ -10,6 +10,7 @@ public class Cloud11Application {
 		//feature1
 		//feature2 niubi
 		//f3-1
+		//f3-2
 		SpringApplication.run(Cloud11Application.class, args);
 	}
 }
